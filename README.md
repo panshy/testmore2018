@@ -1,39 +1,27 @@
-## Welcome to TestMore GitHub Pages
+## 欢迎来到TestMore的Github主页
 
-###分享是科技进步和人文进步的一项重要的工程，汲取各大神的精髓，潇洒而不失风度的代码习惯也值得我们学习。
+#### 分享是科技和人文进步的一项非常重要的工程！
 
-我是草芥茶，我为自己的路途带盐！
-
-### 写给刚步入或准备转行的软件测试新人
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+我是草芥茶,我为自己的路带盐！
+```
+#### 写给初探软件测试的朋友
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+-请明确自己从事这项工作的目的：稳定高薪？比研发轻松？入门容易？
+-许多不是这个专业的朋友都在问我要怎么学才能快速的入门，关于这个问题就在这里解答一下：
+-软件测试入门非常容易，能说会道，勤学肯问，善于总结和质疑，只要具备这些能力，都可以从事软件测试行业。
+```
+#### 软件测试的前世今生
 
-### Jekyll Themes
+#### 软件测试的十八般武艺
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/panshy/testmore2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 软件测试非常奈斯的108个用例分析实例
 
-### Support or Contact
+#### 软件测试工作中的坑
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 软件测试工具大全
+
+#### 软件测试镀金之路
+
+#### 求职面试分析
