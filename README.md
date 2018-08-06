@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to TestMore GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/panshy/testmore2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###分享是科技进步和人文进步的一项重要的工程，汲取各大神的精髓，潇洒而不失风度的代码习惯也值得我们学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是草芥茶，我为自己的路途带盐！
 
-### Markdown
+### 写给刚步入或准备转行的软件测试新人
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
